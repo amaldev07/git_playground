@@ -2,3 +2,4 @@ this is a new file line1
 line2
 line3
 lin34
+line5
